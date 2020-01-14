@@ -2,8 +2,6 @@
 
 Os arquivos apresentados nesse repositório pertencem à disciplina de Tópicos Especiais em Ecologia II, ministrada pelos professores Gustavo Paterno e Carlos Fonseca no curso de pós graduação em Ecologia da UFRN.
 
-Data: "14/01/2020"
-
 ## **Título do projeto**
 
 Relação entre fatores socioeconômicos e taxa de homicídios
