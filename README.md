@@ -1,6 +1,6 @@
 # Repositório Github: graficos_criacao_projetoR
 
-Os arquivos apresentados nesse repositório pertencem à disciplina de Tópicos Especiais em Ecologia II, ministrada por Gustavo Paterno no curso de pós graduação em Ecologia da UFRN.
+Os arquivos apresentados nesse repositório pertencem à disciplina de Tópicos Especiais em Ecologia II, ministrada por Gustavo Paterno e Carlos Fonseca no curso de pós graduação em Ecologia da UFRN.
 
 ## **Título do projeto**
 
